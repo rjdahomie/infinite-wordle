@@ -1,4 +1,4 @@
-# PLay Wordle All Day
+# Play Wordle All Day
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
